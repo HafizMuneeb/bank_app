@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/vite-deploy-MODERN-BANK-APP/'
+  base: '/vite-deploy-bank_app/'
 })
